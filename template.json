@@ -3,5 +3,6 @@
   "vue-vant": "https://gitlab.com:yanxiaos/dtcreate-vue#vant",
   "vue-ant-design-vue": "https://gitlab.com:yanxiaos/dtcreate-vue#ant-design-vue",
   "vue3-element-plus": "https://gitlab.com:yanxiaos/dtcreate-vue#vue3-element-plus",
-  "VitePress":"https://github.com/Asmodeus01/vitepress-template.git"
+  "dt-admin-vue3": "https://gitlab.com:yanxiaos/dtcreate-vue#dt-admin-vue3",
+  "VitePress": "https://github.com/Asmodeus01/vitepress-template.git"
 }
