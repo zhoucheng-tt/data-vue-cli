@@ -1,7 +1,7 @@
 {
   "name": "dtcreate",
-  "version": "1.2.41",
-  "description": "",
+  "version": "1.2.5",
+  "description": "你还为不同项目而下载不同的脚手架而烦恼吗？",
   "main": "index.js",
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1"
@@ -22,5 +22,14 @@
     "download-git-repo": "^3.0.2",
     "inquirer": "^8.2.0",
     "ora": "4.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoucheng-tt/data-vue-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhoucheng-tt/data-vue-cli/issues"
+  },
+  "homepage": "https://github.com/zhoucheng-tt/data-vue-cli#readme"
 }
