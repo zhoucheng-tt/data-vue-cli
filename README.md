@@ -46,7 +46,6 @@ E:\data-vue-cli> dtcreate init
 > vue-element
   vue-vant
   vue-ant-design-vue
-  dt-admin-vue
  
 √ Downloading...
 
